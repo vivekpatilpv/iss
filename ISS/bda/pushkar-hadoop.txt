@@ -1,0 +1,10 @@
+1. Su hadoopusername
+Password 
+
+2. start-dfs.sh 
+
+3. start-yarn.sh
+
+4. jps #check all node are running 5/7 shoud be required
+
+5. Basic hadoop commands

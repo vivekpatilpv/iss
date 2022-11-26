@@ -1,0 +1,7 @@
+Show databases 
+
+Use test1
+
+Show tables 
+
+Use student

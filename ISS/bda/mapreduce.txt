@@ -1,0 +1,3 @@
+1)create input mapper and reducer fie in files-->home
+2)cat ip.txt |python3 mapper.py
+3)cat ip.txt |python3 mapper.py |sort |python3 reducer.py
